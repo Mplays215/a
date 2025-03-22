@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+}
+nav {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            background-color: lightblue;
+            padding: 15px 0;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+ }
+  .ccc {
+            color: whitesmoke;
+            text-decoration: none;
+            font-size: 16px;
+            padding: 10px 20px;
+            border-radius: 5px;
+            background-color: lightcoral;
+        }
+    .abc {
+            color: whitesmoke;
+            text-decoration: none;
+            font-size: 16px;
+            padding: 10px 20px;
+            border-radius: 5px;
+            background-color: blue;
+        }
